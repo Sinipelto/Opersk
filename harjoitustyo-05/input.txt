@@ -1,0 +1,10 @@
+hiilta:puuta
+     rautaharkkoja:rautamalmia
+     lautaa:puuta
+     rautalapio:lapionvarsi
+     rautalapio:lautaa
+     rautalapio:rautaharkkoja
+     rautaharkkoja:hiilta
+    terhi: puuta
+    opers: puuta
+     lapionvarsi:lautaa
